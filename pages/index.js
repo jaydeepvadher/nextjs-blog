@@ -20,10 +20,10 @@ export default function Home({allPostsData}) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}-Custom </title>
+        <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello I am Jaydeep Custom. I am a software engineer and a translator. you can contect me on twitter.</p>
+        <p>Hello I am Jaydeep custom. I am a software engineer and a translator. you can contect me on twitter.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
