@@ -20,7 +20,7 @@ export default function Home({allPostsData}) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{siteTitle}-Custom</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello I am Jaydeep. I am a software engineer and a translator. you can contect me on twitter.</p>
